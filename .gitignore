@@ -1,0 +1,8 @@
+# This repo is public and only shares the app. Everything is ignored by default, so the source
+# code (webapp/, android/), the signing key and build files never get committed. Only the files
+# allowed below are tracked.
+/*
+!/.gitignore
+!/README.md
+!/NightSkyEditor-*.apk
+!/screenshots/
